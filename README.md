@@ -1,5 +1,4 @@
 # cv
-<!DOCTYPE html>
 <html>
 <head>
 	<meta charset="utf-8">
@@ -11,7 +10,7 @@
 <body>
 	<table>
 		<tr>
-			<td><img src="C:\Users\anshul kataria\Documents\anshul.jpg" height="150px" width="120px" style="border-radius: 30px"></td>
+			<td><img src="anshul.jpg" height="150px" width="120px" style="border-radius: 30px"></td>
 			<td><h1 style="font-style: italic; border-bottom: 100px">Anshul Kataria</h1>
        <h4><strong>Student at </strong><a href="https://www.srmuniversity.com">S.R.M University</a></h4>
        <h4><strong>Department </strong><em>Computer Science</em></h4>
